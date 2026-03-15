@@ -8,11 +8,11 @@
 
 | **Main Dashboard** | **Add New Book** |
 | :---: | :---: |
-| ![Main Interface](image_6197fc.png) | ![Add Book Dialog](image_6197fa.png) |
+| ![Main Interface](main.png) | ![Add Book Dialog](add.png) |
 
 | **Rating System** |
 | :---: |
-| ![Rating Dialog](image_6197f8.png) |
+| ![Rating Dialog](rate.png) |
 
 ---
 
