@@ -58,4 +58,4 @@ A modern, professional desktop application designed to streamline library book m
 ---
 
 ## 📄 License
-This project is licensed under the MIT License.
+This project is licensed under the IEEE MIT SB License.
